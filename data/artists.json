@@ -1,0 +1,9 @@
+[{
+    "id": 1,
+    "name": "Coldplay",
+    "description": "Descripcion del artista"
+}, {
+    "id": 2,
+    "name": "RBD",
+    "description": "Descripcion del artista."
+}]
